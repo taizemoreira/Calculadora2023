@@ -1,14 +1,4 @@
-﻿//Primeiro Exercício da Academia do Programador 2023
-//A Dona Mariana precisa de um sistema para calcular operações matemáticas simples, como adição, subtração,
-//multiplicação e divisão entre dois números. Ela gostaria também de visualizar um histórico das operações realizadas.
-//Requisito 01 --> Nossa calculadora deve ter a possibilidade de somar dois números [ok]
-//Requisito 02 --> Nossa calculadora deve ter a possibilidade fazer várias operações de soma [ok]
-//Requisito 03 --> Nossa calculadora deve ter a possibilidade fazer várias operações de soma e de subtração [ok]
-//Requisito 04 --> Nossa calculadora deve ter a possibilidade fazer as quatro operações básicas da matemática [ok]
-//Requisito 05 --> Nossa calculadora deve realizar as operações com "0" [ok]
-//Requisito 06 --> Nossa calculadora deve validar as opções do menu [ok]
-//Requisito 07 --> Nossa calculadora deve realizar as operações com números com casas decimais [ok]
-//Requisito 08 --> Nossa calculadora deve gerar a tabuada de multiplicação para um determinado número [ok]
+﻿
 using System.Drawing;
 
 namespace Calculadora.ConsoleApp
