@@ -1,5 +1,4 @@
-﻿
-using System.Drawing;
+﻿using System.Drawing;
 
 namespace Calculadora.ConsoleApp
 {
@@ -144,6 +143,5 @@ namespace Calculadora.ConsoleApp
             } while (true);  
 
         }
-    
     }
 }
