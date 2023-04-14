@@ -1,4 +1,4 @@
-# Calculadora2023
+# Exercício Calculadora - 2023
 
 Primeiro Exercício da Academia do Programador 2023
 
