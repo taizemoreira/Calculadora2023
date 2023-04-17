@@ -1,5 +1,5 @@
 <h1 align="center">
-📄<br> Exercício Calculadora - 2023
+🛠️<br> Exercício Calculadora - 2023
 </h1> 
 
 >Primeiro Exercício da Academia do Programador 2023
@@ -29,7 +29,7 @@ matemática
 
 ## Requisito 07:
 - [x] Nossa calculadora deve permitir visualizar as operações já realizadas
-* Critérios:
+*Critérios:
 * 1 - A descrição da operação realizada deve aparecer assim, exemplo:
 * 2 + 2 = 4
 * 10 - 5 = 5
