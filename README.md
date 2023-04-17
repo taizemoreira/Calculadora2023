@@ -8,9 +8,7 @@
 A Dona Mariana precisa de um sistema para calcular operações matemáticas simples, como adição, subtração,
 multiplicação e divisão entre dois números. Ela gostaria também de visualizar um histórico das operações
 realizadas.
----
 
-<br>
 ## Requisito 01:
 - [x] Nossa calculadora deve ter a possibilidade de somar dois números
 
