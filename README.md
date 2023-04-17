@@ -1,13 +1,12 @@
 # Exercício Calculadora - 2023
 
 >Primeiro Exercício da Academia do Programador 2023
----
-CONTEXTO
+>CONTEXTO
 </br>
 A Dona Mariana precisa de um sistema para calcular operações matemáticas simples, como adição, subtração,
 multiplicação e divisão entre dois números. Ela gostaria também de visualizar um histórico das operações
 realizadas.
-
+---
 - Requisito 01
 //Nossa calculadora deve ter a possibilidade de somar dois números
 
