@@ -2,7 +2,7 @@
 
 namespace Calculadora
 {
-    class Program
+    class Program 
     {       
             //escopo global
             static string[] descricoesOperacao = new string[100]; //declaração e inicialização de arrays
